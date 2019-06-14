@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KtDaggerApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="body">Welcome to Kotlin + Dagger + MVP architecture project</string>
+</resources>
